@@ -1,6 +1,6 @@
 # Pr-ctica-3.1-Github---Gitlab
 
-## Integrantes
+## Integrantes:
 - ALVARADO LEON HECTOR JOEL
 - BONI GALARZA RICKY WALTER
 - CARRERA PERALTA NIURKA DELYÁN
